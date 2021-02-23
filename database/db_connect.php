@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("remotemysql.com","iU9b8bM4kX","ewz6GYmkMD","iU9b8bM4kX");
+$con=mysqli_connect("remotemysql.com","RJWaiqsdrV","ox1j9PCA8i","RJWaiqsdrV");
 // Check connection
 if (mysqli_connect_errno())
   {
